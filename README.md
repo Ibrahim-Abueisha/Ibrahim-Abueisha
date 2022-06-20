@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahim-Abueisha
-- 👀 I’m interested in AI, ML and DL
+- 👀 I’m interested in Python, AI, ML and DL
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me: ibrahim.abueisha97@gmail.com, +201091392611
