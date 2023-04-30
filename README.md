@@ -15,7 +15,7 @@
 -  As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 -  I’m interested in Python, AI, ML, DL and DS.
 -  Fun Fact: I'm a Tea enthusiast and my perfect day would start and end with a cup of Tea.
-
+-  Check out my Resume at https://bit.ly/3oWvlJ9.
 
 ### Connect with Me :
 
